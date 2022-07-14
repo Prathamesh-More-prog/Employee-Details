@@ -1,0 +1,33 @@
+{
+
+    "user":[
+ 
+        {
+         "id":1,
+          "name":"Akashy",
+          "email":"akshay@gmail.com",
+          "phone number":" 8586878866"
+         },
+ 
+     
+         {
+           "id":2,
+           "name":"Pramod",
+           "email":"pramod@gmail.com",
+           "phone number":" 777777777"
+         },
+ 
+ 
+        {
+           "id":3,
+           "name":"Amol",
+           "email":"amol@gmail.com",
+           "phone number":"7878787878"
+         }
+ 
+ 
+  ]
+ 
+ }
+  
+  
